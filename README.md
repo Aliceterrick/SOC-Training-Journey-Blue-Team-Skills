@@ -72,7 +72,7 @@ This repository documents my current learning path in **Security Operations Cent
 ## 📎 Related Links
 
 - 🔗 [IBM Credly Badge – Cybersecurity Fundamentals](https://www.credly.com/badges/f74cae22-1702-4e88-923f-dda9cf68f312/public_url)
-- [IBM QRadar SIEM Foundation](https://www.ibm.com/training/learning-path/ibm-qradar-siem-foundation-694)
+- 🔗 [IBM QRadar SIEM Foundation](https://www.ibm.com/training/learning-path/ibm-qradar-siem-foundation-694)
 - 🔗 [TryHackMe – SOC Level 1](https://tryhackme.com/room/soclevel1)
 - 🔗 [Wazuh Documentation](https://documentation.wazuh.com)
 
