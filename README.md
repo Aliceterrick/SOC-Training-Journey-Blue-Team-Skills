@@ -14,15 +14,6 @@ This repository documents my current learning path in **Security Operations Cent
   - SOC structure, incident response lifecycle, and security tooling
 - 🎖️ Issued digital badge by IBM via Credly
 
-### ✅ IBM QRadar SIEM Foundation – *IBM SkillsBuild* *(In Progress)*
-- Focused training on QRadar, IBM’s enterprise-grade SIEM platform
-- Topics covered:
-  - Log ingestion and normalization via DSMs (Device Support Modules)
-  - Offense management and correlation rule logic
-  - Building custom searches using AQL (Ariel Query Language)
-  - Managing assets, flows, and threat intelligence integration
-- Hands-on simulations using QRadar’s analyst workflow
-
 ### 🔄 TryHackMe: SOC Level 1 – *(In Progress)*
 - Hands-on incident triage and log analysis in realistic environments
 - Key skills:
@@ -33,10 +24,10 @@ This repository documents my current learning path in **Security Operations Cent
 
 ---
 
-## 🏗️ SIEM Stack Deployment
+## 🏗️ SIEM Stack Deployment *In Progress*
 
 ### 🛠️ Wazuh + ELK Stack (Self-hosted)
-- Built and configured a full open-source SIEM solution on Ubuntu 22.04
+- Building and configuring a full open-source SIEM solution on Ubuntu 22.04
 - Components:
   - **Wazuh Manager + Agents**: for log collection & rule-based detection
   - **Elasticsearch + Logstash**: for log indexing and pipeline management
@@ -54,7 +45,6 @@ This repository documents my current learning path in **Security Operations Cent
 ## 🧪 Upcoming Tasks
 
 - Finish TryHackMe SOC Level 1 and start SOC2 (advanced correlation and playbooks)
-- Validate IBM QRadar SIEM Foundation
 - Integrate MITRE ATT&CK mapping in Wazuh alerts
 - Set up threat hunting dashboards in Kibana
 - Begin Splunk Fundamentals 1 to compare SIEM approaches
@@ -72,7 +62,6 @@ This repository documents my current learning path in **Security Operations Cent
 ## 📎 Related Links
 
 - 🔗 [IBM Credly Badge – Cybersecurity Fundamentals](https://www.credly.com/badges/f74cae22-1702-4e88-923f-dda9cf68f312/public_url)
-- 🔗 [IBM QRadar SIEM Foundation](https://www.ibm.com/training/learning-path/ibm-qradar-siem-foundation-694)
 - 🔗 [TryHackMe – SOC Level 1](https://tryhackme.com/room/soclevel1)
 - 🔗 [Wazuh Documentation](https://documentation.wazuh.com)
 
